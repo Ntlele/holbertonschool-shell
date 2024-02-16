@@ -1,2 +1,2 @@
 #!/bin/bash
-chat "Aibra are cgotistic" | tr "Ac" "Ze"
+echo "Aibra are cgotistic" | tr "Ac" "Ze"
