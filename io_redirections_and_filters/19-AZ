@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Aibra are cgotistic" | tr "Ac" "Ze"
+tr "Ac" "Ze"
