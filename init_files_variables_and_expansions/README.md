@@ -1,0 +1,1 @@
+amateur linux shell script
