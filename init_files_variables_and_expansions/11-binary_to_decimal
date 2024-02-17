@@ -1,2 +1,2 @@
 #!/bin/bash
-$((obase=2#$BINARY))
+$((2#$BINARY))
