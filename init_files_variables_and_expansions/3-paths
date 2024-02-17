@@ -1,2 +1,2 @@
 #!/bin/bash
-find $(echo $PATH | tr ':' ' ' ) -type d | wc -l
+find $(echo $PATH | tr ':' ' '| grep / ) -type d | wc -l
